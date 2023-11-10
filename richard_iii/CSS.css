@@ -1,0 +1,40 @@
+
+
+body{font-family:arial; font-size:11pt;}
+p{margin-top: 2px; margin-bottom: 2px; text-indent: 10%; text-align:justify; font-family:'Times New Roman';font-size:11pt;}
+h1{color:#990000;font-weight:bold;font-size:2.5em;font-variant:small-caps;;
+text-shadow:5px 5px 5px silver; padding-inline: 10px;}
+.podnadpis{color:#990000;font-size:0.5em; text-shadow:5px 5px 5px silver; font-style: italic; padding-left: 70pt; font-variant:none;display:flex;}
+h2{color:#990000;font-weight:bold;font-size:2em;text-shadow:4px 4px 5px silver;text-align:center;}
+h3{color:#990000;font-weight:bold;font-size:1.5em;text-shadow:3x 3px 5px silver;text-align:center;}
+.flex{display:flex;align-self: center;}
+.obr{align-self:center;padding-left:calc(50% - 500px);}
+.obr2{align-self:center;padding-left:calc(50% - 560px);}
+dl{display:inline;float:left;text-align: center;margin-top: -20px;} 
+main{background-image:url(trose4.jpg);background-repeat:no-repeat;background-position:center;width:calc(80% - 10px); float:left;min-height: 500px;}
+a{list-style-type:none;margin-right:5px; 
+   ;text-decoration:none;color:#ffffff}
+fieldset{align-self: center;}
+a:hover{font-style:italic;color:#000000;}
+p{text-align:justify;}
+.floatl{float:left;}
+.cleaner{clear:both;}
+ul{margin-bottom: -10px;align-content: center;}
+footer{font-size:0.6em;text-align:left;border-top:solid 2px;font-weight:bold;width:calc(80% - 10px);float:left;padding: 10px 5px;}
+.erb{border: solid 1px #999999;height:15px;margin-bottom: -3px;}
+table{border:solid 3px #990000;margin-left:calc(50% - 400px);width: 800px;}
+td{border:solid 2px #990000;padding: 0px 5px;}
+th{border:solid 2px #990000;padding: 0px 5px;}
+
+header{display:flex; flex-direction: column; flex-wrap:wrap;width:calc(80% - 10px);float:left;} 
+aside{min-width:10%;float:left;}
+.posun{margin-left:-50px;display:flex;display:flex;align-self: center;}
+.cerny{color:#000000;}
+.menu1{display: inline; padding:15px; margin-right:40px ;;
+    font-size:1.2em; font-weight:bold;float:left; background-image:radial-gradient(#aa0000 5%,#FFFFFF 70%);}
+.roses{width:75px;margin-top:25px;padding-left:10px;border:none;}
+.border1{border-bottom: solid 2px #000000;}
+.quotes{font-style:italic;font-size:11pt;font-family:'Times New Roman';text-align: center;display:inline;}
+
+
+/* <link rel="stylesheet" href="css.css"> */
